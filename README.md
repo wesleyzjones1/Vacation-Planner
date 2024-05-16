@@ -4,7 +4,7 @@ The Vacation Planner is an Android mobile application designed to help users man
 
 #### Home Page
 
-![](images/home_screen.png)
+<img src="images/home_screen.png" height="400">
 
 ## Features
 
@@ -16,18 +16,21 @@ The Vacation Planner is an Android mobile application designed to help users man
 
 ## Screenshots
 
+
+
 #### Vacations Page
 
-![](images/vacation_page.png)
+<img src="images/vacation_page.png" height="400">
 
 #### Create Excursion
 
-![](images/create_excursion.png)
+<img src="images/create_excursion.png" height="400">
 
 #### Excursion Page
 
-![](images/excursion_page.png)
+<img src="images/excursion_page.png" height="400">
 
 #### Share Vacation
 
-![](images/share_vacation.png)
+<img src="images/share_vacation.png" height="400">
+
