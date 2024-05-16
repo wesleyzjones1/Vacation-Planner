@@ -34,3 +34,6 @@ The Vacation Planner is an Android mobile application designed to help users man
 
 <img src="images/share_vacation.png" height="400">
 
+#### Application Layout
+![](images/application_layout.png)
+
